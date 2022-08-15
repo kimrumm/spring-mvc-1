@@ -1,0 +1,7 @@
+
+i
+java:S1192&"GDefine a constant instead of duplicating this literal "</li>
+" 3 times.(Æ‚¯€ÿÿÿÿÿ8¶ÌĞ‚ª0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êúıèıÿÿÿÿ8ÎÌĞ‚ª0
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(«ùüÿÿÿÿ8ØÌĞ‚ª0
